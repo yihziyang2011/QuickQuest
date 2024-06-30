@@ -10,9 +10,9 @@ L['When to select gossip while in a raid'] = '當你在團隊中，是否啟用�
 L['Automatically pay Darkmoon Faire teleporting fees'] = '自動支付暗月馬戲團傳送費'
 L['Reverse the behaviour of the modifier key'] = '反轉輔助鍵的行為（勾選後，按下按鍵才啟用自動交接）'
 L['Hold this key to to temporarily pause automation'] = '按下此按鍵來暫時跳過自動化'
-L['Automatically select the most valuable reward']  = '自動選擇比較值錢的獎勵'
+L['Automatically select the reward that\'s worth the most']  = '自動選擇比較值錢的獎勵'
 L['Automatically deliver repeatable delivery quests'] = '自動提交重複的每日任務'
--- L['Automatically select quest gossip options'] = '' -- MISSING!
+L['Automatically select quest gossip options'] = '自動選擇對話選'
 
 L['Item Blocklist'] = '物品阻擋清單'
 L['NPC Blocklist'] = 'NPC阻擋清單'
@@ -25,7 +25,7 @@ L['Quests and dialogue from NPCs in this list will not be automated.'] = '在此
 
 L['Block a new item by ID'] = '阻擋新的物品根據ID'
 L['Block a new NPC by ID'] = '阻擋新的NPC根據ID'
--- L['Quests (by partial title or ID) in this list will not be automated.'] = '' -- MISSING!
+L['Quests (by partial title or ID) in this list will not be automated.'] = '此列表中的任務（按部分標題或ID）不會自動執行'
 
 L['ALT key'] = ALT_KEY
 L['CTRL key'] = CTRL_KEY
@@ -39,3 +39,4 @@ L['Accept'] = ACCEPT
 L['Cancel'] = CANCEL
 L['Target'] = TARGET
 L['Invalid Item'] = ERR_SOULBIND_INVALID_CONDUIT_ITEM
+
